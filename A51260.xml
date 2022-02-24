@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The doctrin [sic] of transubstantiation consider'd and fully confuted from a union of scriptures hitherto not perform'd / by Tho. Moor; with An advertisement concerning a dispute in the country between T.M. and one Mr. S. on the 25th of July, 1700.</title>
+            <author>Moor, Thomas, fl. 1695-1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51260</idno>
+            <idno type="STC">Wing M2608A</idno>
+            <idno type="STC">ESTC R29037</idno>
+            <idno type="EEBO-CITATION">10798021</idno>
+            <idno type="OCLC">ocm 10798021</idno>
+            <idno type="VID">45954</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51260)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45954)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1406:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The doctrin [sic] of transubstantiation consider'd and fully confuted from a union of scriptures hitherto not perform'd / by Tho. Moor; with An advertisement concerning a dispute in the country between T.M. and one Mr. S. on the 25th of July, 1700.</title>
+                  <author>Moor, Thomas, fl. 1695-1697.</author>
+               </titleStmt>
+               <extent>10, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by W. Marshall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Transubstantiation.</term>
+               <term>Lord's Supper --  Real presence.</term>
+               <term>Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45954:1"/>
+            <!-- PDF PAGE 31 -->
+            <p>THE DOCTRIN OF <hi>Tranſubſtantiation</hi> Conſider'd, and fully CONFUTED, From a Union of <hi>SCRIPT<g ref="char:V">Ʋ</g>RES:</hi> Hitherto not Perform'd.</p>
+            <p>By <hi>THO. MOOR,</hi> Author of the <hi>Clavis Aurea.</hi>
+            </p>
+            <p>WITH An Advertiſement, concerning a Diſpute in the Country, between <hi>T. M.</hi> and one Mr. <hi>S.</hi> on the <hi>25th.</hi> of <hi>July.</hi> 1700.</p>
+            <p>
+               <hi>LONDON,</hi> Printed: and Sold by <hi>W. Marſhall,</hi> at the <hi>Bible</hi> in <hi>Newgate<g ref="char:EOLhyphen"/>ſtreet.</hi> 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:45954:2"/>
+            <!-- PDF PAGE 32 -->
+            <pb n="3" facs="tcp:45954:2"/>
+            <!-- PDF PAGE 32 -->
+            <head>
+               <hi>Tranſubſtantiation</hi> FULLY CONFUTED.</head>
+            <p>I Having pacified my Conſcience, in writing my <hi>Clavis Aurea</hi> and its Additions, which Book (although it was never Anſwer'd by any Preacher, yet I Suffer'd for it; and indeed, ſhould it be Anſwer'd, I think only to leave their Anſwer to be compar'd to my Book aforeſaid) was condemn'd to be Burn'd as Irreligious and Seditious, and my ſelf Fin'd, and Impriſon'd in <hi>Newgate.</hi>
+            </p>
+            <p>But this Subject of <hi>Tranſubſtantiation,</hi> cannot in reaſon affront our Divines, which indeed wants the cleareſt Con<g ref="char:EOLhyphen"/>futation; for it hath coſt the Lives of many Thouſands of Men, Women and Children, and that by violent and tor<g ref="char:EOLhyphen"/>turing
+<pb n="4" facs="tcp:45954:3"/>
+               <!-- PDF PAGE 33 -->Deaths: And becauſe many are apt to ſay, I am a Jeſuit, a Prieſt, and the like, I think it alſo very neceſſary to aſſay, whether I cannot give a more clearer inſight into that Error, than what hath already been done.</p>
+            <p>None can deny, but that our Senſes perfectly contradict a mutation of the Conſecrated Bread and Wine into real Fleſh and Blood, and that they are the very ſame Subſtance in Taſte, Smell, Sight and Touch, as they were before the words of Conſecration were expreſt by the Prieſt, whereby it is not in the leaſt changed; yet we muſt believe this whether we can or no, otherwiſe we are Hereticks and Damn'd, they accounting it no moer Sin to deſtroy us than if we were ſo many Dogs, <hi>&amp;c.</hi> notwithſtand<g ref="char:EOLhyphen"/>ing our bleſſed Saviour teaches 'em to do as they would be done by: Hence Perſecution for Conſcience in an Opini<g ref="char:EOLhyphen"/>on in Religion is forbidden, for no Perſe<g ref="char:EOLhyphen"/>cutor himſelf can allow it Religious, or would be Perſecuted for his Conſcience<g ref="char:EOLhyphen"/>ſake: But Perſecution is more hainous,
+<pb n="5" facs="tcp:45954:3"/>
+               <!-- PDF PAGE 33 -->when the Perſecutor is not able to with<g ref="char:EOLhyphen"/>ſtand the Arguments of the Perſecuted. Ignorance is a Sin; Perſecution then muſt of neceſſity be a Sin, becauſe it ignorant<g ref="char:EOLhyphen"/>ly or knowingly, endeavours to keep Men in Ignorance: And who ever Per<g ref="char:EOLhyphen"/>ſecuted others more than thoſe who have been extream Ignorant themſelves? In ſhort, God accepts of what we Con<g ref="char:EOLhyphen"/>ſcientiouſly think is true, (and no Man can dive into another Mans Conſcience) it muſt then be great Iniquity to Perſe<g ref="char:EOLhyphen"/>cute one anothers Conſcience, if Zea<g ref="char:EOLhyphen"/>louſly affected to a Tenet, tho that Te<g ref="char:EOLhyphen"/>net ſhould prove to be Erroneous. Much more then, it muſt be great Iniquity to Perſecute a Man for thoſe Arguments which cannot be Overthrown.</p>
+            <p>Now to the Matter in hand: in <hi>John</hi> 6 53. it's writ, <hi>Verily, verily, I ſay unto you, except ye eat of the Fleſh of the Son of Man and drink his Blood, ye have no life in you.</hi> And verſe 55, <hi>For my Fleſh is Meat indeed, and my Blood is Drink indeed.</hi> For which ſaying, many of his Diſciples left him, verſe 60. But I find in verſe 62,
+<pb n="6" facs="tcp:45954:4"/>
+               <!-- PDF PAGE 34 -->63, <hi>Chriſt</hi> opens this, by telling them of his Aſcention, <hi>viz. What and if you ſhall ſee the Son of Man aſcend up where he was before.</hi> As much as to ſay, How will ye eat my Fleſh when I am Glorified? And <hi>Chriſt</hi> adds; <hi>It's the Spirit that quick'neth, the Fleſh profiteth nothing; The words that I ſpeak unto you, they are Spirit and Life.</hi> And again he adds, <hi>but there are ſome of you that believe not.</hi> So that eating of his Fleſh, Was Myſtically ſpoken of Belie<g ref="char:EOLhyphen"/>ving in him: For to eat his Fleſh carnal<g ref="char:EOLhyphen"/>ly, was to profit nothing. And again, obſerve; as ſoon as our Saviour ſaid, <hi>My words are ſpirit and life,</hi> adds, <hi>But there are ſome of you that believe not.</hi> And it's writ in verſe 47, <hi>He that believeth on me, hath everlaſting Life.</hi> And throughout the Scriptures it's ſaid, <hi>We are ſav'd by Faith;</hi> and <hi>Chriſt</hi> being Aſcended, is no more to be known after the Fleſh; as 'tis writ, 2 <hi>Cor.</hi> 5.16. <hi>Tho we have known Chriſt after the fleſh, henceforth know we him no more.</hi> How then can we eat in the Sacrament, <hi>Chriſt</hi>'s Fleſh carnally, or drink his Blood. But we'll ſuppoſe the
+<pb n="7" facs="tcp:45954:4"/>
+               <!-- PDF PAGE 34 -->Conſecrated Bread and Wine at the laſt Supper were <hi>Chriſt</hi>'s real Fleſh and Blood, there's no particular Command with or without any Penalty for us to believe it or not believe it ſo: Neither can our Unbelief change the Subſtance of the Conſecrated Bread and Wine in<g ref="char:EOLhyphen"/>to another Subſtance. If <hi>Chriſt</hi> hath left this Bread or Wine of his Laſt Supper dubious, whether Figurative or Real, we can but dubiouſly believe it ſo, whereby we humbly ſubmit our Faith to God, believing it to be as he hath made it, which is as much in this reſpect as rea<g ref="char:EOLhyphen"/>ſonably can be expected from us.</p>
+            <p>Another Scripture on which they build this Error, is <hi>Matth.</hi> 26, 27, 28. (as for the Authority of their Church, I mind it not, becauſe it is not to contradict the Scriptures.) <hi>And as they were eating,</hi> Je<g ref="char:EOLhyphen"/>ſus <hi>took bread and bleſſed it, and brake it, and gave it to the Diſciples, and ſaid, Take eat, this is my Body. And he took the Cup and gave Thanks, and gave it to them, ſaying, drink ye all of it, for this is my blood of the New-Teſtament, which is ſhed for the remiſ<g ref="char:EOLhyphen"/>ſion
+<pb n="8" facs="tcp:45954:5"/>
+                  <!-- PDF PAGE 35 -->of Sins.</hi> Now it's obſerv'd, that after theſe words, <hi>Chriſt</hi> calls this the Fruit of the Vine in the very next Verſe, ſaying, <hi>I will not henceforth drink of this fruit of the vine, until that day when I drink it new with you in my Father's kingdom.</hi> Thus you ſee in Scripture the Figures of things are cal<g ref="char:EOLhyphen"/>led by the name of the Subſtance; and in words Myſtically to have the ſame effect: For had this been <hi>Chriſt</hi>'s real Fleſh and Blood, and really broken and ſhed at the Laſt Supper, it had really re<g ref="char:EOLhyphen"/>mitted Sin, as being alſo ſaid to be ſhed for the remiſſion of Sin. But we find it did not remit Sin, becauſe <hi>Chriſt</hi> after all this, ſuffer'd Miſery and Death on the Croſs, which had been great Weakneſs in him ſo to do, if it had remitted Sin; and alſo to pray, <hi>Father if it be poſſible, let this Cup paſs from me.</hi> Whereby it's evi<g ref="char:EOLhyphen"/>dent, that the Conſecrated Bread and Wine at the Laſt Supper, was not his real Body and Blood. Again,</p>
+            <p>The blood of Bulls and Goats under the Law, were an Expiation, or remitted Sin: Yet St. <hi>Paul</hi> ſaith, <hi>it is not poſſible that
+<pb n="9" facs="tcp:45954:5"/>
+                  <!-- PDF PAGE 35 -->the blood of Bulls and Goats ſhould take away ſins,</hi> Heb. 10.4. Yet they did take away Sin, but 'twas figuratively, denoting the Blood of <hi>Chriſt.</hi> Who can believe that <hi>Chriſt</hi> was really ſlain at the Laſt Supper? If not, then it is teſtified that a <hi>Teſtament is not of force till after the death of the Teſta<g ref="char:EOLhyphen"/>tor.</hi> See <hi>Heb.</hi> 9.16, 17. For where a Teſtament is, there muſt of neceſſity be the Death of the Teſtator; it being of no force while he liveth. So that with<g ref="char:EOLhyphen"/>out ſhedding <hi>Chriſt</hi>'s real Blood even un<g ref="char:EOLhyphen"/>to Death, there's no remiſſion of Sin. Whereby it's evident, <hi>Chriſt</hi>'s Body and Blood eaten and drank at the laſt Supper, was but Figurative, not being a ſuffici<g ref="char:EOLhyphen"/>ent Teſtament to remit Sin: And <hi>Chriſt</hi> being now in Glorv, and never more to be known in the Fleſh, it's impoſſible, as his Body and Blood was never carnally eaten and drank, ſo never is nor never ſhall be.</p>
+            <p>Thus in ſhort have I given you my Sa<g ref="char:EOLhyphen"/>tisfaction againſt that old Error of <hi>Tran<g ref="char:EOLhyphen"/>ſubſtantiation,</hi> which at this very day is held by Kings, Princes, and Learned Bi<g ref="char:EOLhyphen"/>ſhops,
+<pb n="10" facs="tcp:45954:6"/>
+               <!-- PDF PAGE 36 -->who, I am perſwaded, believe it true, otherwiſe they could not be ſo Cruel to Perſecute others for denying it, and that by Fire, Inquiſition, Priſons, Maſſacres, and other Tortures. How Weak then are their Laity to Adore 'em, concluding that their Learning and Stu<g ref="char:EOLhyphen"/>dy can free them from writing Learned Errors in Divinity. Learning in Tongues is of this uſe, To tranſlate words out of one Language into another, yet ſtill the ſenſe is the ſame: And alſo ſerves the better to expreſs thoſe Myſteries God hath Revealed: And it ſerves ſometimes to hide by hard and unintelligible words, the Ignorance of the Teacher. But from ſuch Learned blind Guides the Lord hath and I truſt will for ever deliver me; for which great Mercy, let me always render Glory and Honour to his Holy Name. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="notice">
+            <pb facs="tcp:45954:6"/>
+            <!-- PDF PAGE 36 -->
+            <head>Advertiſement.</head>
+            <p>IT is reported by ſome, That <hi>T. M.</hi> was Over<g ref="char:EOLhyphen"/>thrown in a Diſpute with one Mr. <hi>S.</hi> which is Falſe; for <hi>S.</hi> diſprov'd none of <hi>M</hi>'s Argu<g ref="char:EOLhyphen"/>ments, but only deny'd the Conſequences; which <hi>M,</hi> obſerving the fallacy of, let <hi>S.</hi> begin, waiting to put him upon Uniting his ſeeming oppoſite Scriptures: <hi>S.</hi> having begun, he for two Hours, brought only Scriptures againſt <hi>M</hi>'s Scriptures, (but <hi>M</hi>'s unhappineſs was, the People perceived it not) in which was no Satis<g ref="char:EOLhyphen"/>faction. <hi>S.</hi> having tired his Auditors, <hi>M</hi> be<g ref="char:EOLhyphen"/>gan, and urg'd <hi>S.</hi> to unite the ſeeming oppo<g ref="char:EOLhyphen"/>ſite Scriptures: <hi>S.</hi> reply'd, <hi>He came not to <g ref="char:V">Ʋ</g>nite the Scriptures,</hi> whereas it was his buſineſs to out-do <hi>M.</hi> in their Union, if he could, both for ſatisfaction of the Auditors, and to have the better of the Diſpute; How otherwiſe could he expect to get the day? And beſides, What did he come for? Vain-glory! which <hi>M.</hi> deſpis'd, or to play upon the Ignorance of the People, to gain their Affections, and give them no Sa<g ref="char:EOLhyphen"/>tisfaction, which <hi>M.</hi> deſign'd not. How ean any Man be ſo Stupified, to conclude <hi>M.</hi> Over<g ref="char:EOLhyphen"/>thrown, when <hi>S.</hi> did not pretend, nay, poſitive<g ref="char:EOLhyphen"/>ly deny'd to Unite the Scriptures: And when <hi>M.</hi> had United <hi>Mark</hi> 16.16. with <hi>Rom.</hi> 11.32. the People could not receive it, (as <hi>M.</hi> expect<g ref="char:EOLhyphen"/>ed) nor <hi>S.</hi> contradict it, but confirm'd it, in
+<pb facs="tcp:45954:7"/>
+               <!-- PDF PAGE 37 -->ſaying, <hi>He did not ſay, There was Free-will in Faith.</hi> Yet he contended for Free-will before in his long Harangue.</p>
+            <p>Now ſince <hi>S.</hi> could not be brought to Unite the ſeeming oppoſite Scriptures, and having own'd, That there was no Free-will in Faith, and would not have the Diſpute in Writing, nor in a Dialogue way, and the People not receiving <hi>M</hi>'s Union of the two aforeſaid Texts, <hi>M.</hi> broke off the Diſpute, as frivolous and vain, from which no Satisfaction could be drawn.</p>
+            <p>I grant <hi>S.</hi> had his End (through his much Talking) <hi>viz.</hi> The Applauſe of the People, who knew no more when Scriptures were United, than <hi>S.</hi> knew how to Unite them.</p>
+            <p>Without a Union of Scriptures, there's no Satisfaction to be had, and that's the reaſon we have wanted Satisfaction theſe many Hun<g ref="char:EOLhyphen"/>dred Years. But if Mr. <hi>S.</hi> pleaſes, <hi>T. M.</hi> is ready to anſwer him in Writing concerning the Union of the Scriptures, which will make his Logick of no Effect, as it never was, in finding out the Truth of the Scriptures.</p>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>SOme Arguments and Conſiderations, ſerving as a full Anſwer to that Grand Queſtion, <hi>Whether Men can Will and do otherwiſe than what they do?</hi>
+            </p>
+            <p>
+               <hi>Bunyan</hi> of Election and Reprobation, unfold<g ref="char:EOLhyphen"/>ed and explained in Eleven Chapters. Price 6 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>The young Man's Guide, for Drawing, Limn<g ref="char:EOLhyphen"/>ing, and Etching, with printed Directions. 1 <abbr>
+                  <hi>s.</hi>
+               </abbr>
+            </p>
+            <pb facs="tcp:45954:7"/>
+            <!-- PDF PAGE 37 -->
+         </div>
+      </back>
+   </text>
+</TEI>
